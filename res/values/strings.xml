@@ -1,0 +1,52 @@
+<resources>
+
+    <string name="app_name">Tastes of India</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_welcome">Times of India</string>
+    <string name="loginTV">Login</string>
+    <string name="unameTV">Username</string>
+    <string name="pwdTV">Password</string>
+    <string name="regTV">Register</string>
+    <string name="abtTV">About Us</string>
+    <string name="cntctTV">Contact Us </string>
+    <string name="fnameTV">Firstname</string>
+    <string name="lnameTV">Lastname</string>
+    <string name="dobTV">Date of Birth</string>
+    <string name="addr1TV">Address Line 1</string>
+    <string name="addr2TV">Address Line 2</string>
+    <string name="cityTV">City</string>
+    <string name="stateTV">State</string>
+    <string name="emailTV">E-Mail</string>
+    <string name="phnoTV">Mobile / Phone No.</string>
+    <string name="profileImgBtn">Profile</string>
+    <string name="shpcrtImgBtn">Shopping Cart</string>
+    <string name="menuImgBtn">Menu</string>
+    <string name="favImgBtn">Favourites</string>
+    <string name="oldpwdTV">Old Password</string>
+    <string name="newpwdTV">New Password</string>
+    <string name="confrmpwdTV">Confirm Password</string>
+    <string name="rstBtn">Reset</string>
+    <string name="bkBtn">Back</string>
+    <string name="regloginBtn">Click here to login</string>
+    <string name="submitBtn">Submit</string>
+    <string name="prfeditBtn">Edit Profile</string>
+    <string name="pwdchngBtn">Change Password</string>
+    <string name="pwdfrgt">Forgot Password?</string>
+    <string name="availTV">Check Availability?</string>
+    <string name="dpBtn">Choose</string>
+    <string name="wlcmTxt">At Tastes of India, we offer the most authentic indian dishes which have evolved over centuries to perfection. Each dish is prepared with a variety of spices and ingredients to create a distinct and individual flavour.</string>
+    <string name="logoutBtn">Logout</string>
+    <string name="editFieldTV">Choose</string>
+    <string name="valueTV">Confirm</string>
+    <string-array name="EditProfileField">
+        <item >Firstname</item>
+        <item >Lastname</item>
+        <item >Date of Birth</item>
+        <item >Address 1</item>
+        <item >Address 2</item>
+        <item >City</item>
+        <item >State</item>
+        <item >e-mail</item>
+        <item >Phone / Mobile No.</item>
+    </string-array>
+</resources>
